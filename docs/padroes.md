@@ -245,3 +245,63 @@ Exemplos aceitos:
 
     https://mangasjbc.com.br/death-note-black-edition-how-to-read-07/
     https://loja.panini.com.br/panini/produto/Manga-The-Legend-of-Zelda-Ocarina-of-Time-Perfect-Edition.aspx
+
+## Exemplo de preenchimento
+
+    Editoras:
+
+
+        Opções:
+        1) Editora JBC
+        2) Panini
+        3) NewPOP Editora
+        4) Nova Sampa
+        5) DarkSide Books
+        6) Devir
+        7) L&PM
+        8) Editora Draco
+        9) Alto Astral
+
+        Editora: 1
+
+    Selo editorial:
+
+
+        Opções:
+        1) Mangás
+        2) Ink Comics
+        3) Novels
+        4) Graphic Novels
+
+        Selo editorial: 1
+
+    Informações:
+        Nome: The Ghost in the Shell 2.0 - Manmachine Interface
+        Data (dd/mm/yyyy): 07/12/2017
+        Subtítulo: Major Motoko Kusanagi updated
+        Sinopse: <p>A Major Motoko Kusanagi volta atualizada na sequência da obra-prima de Shirow&nbsp;Masamune&nbsp;<strong>The Ghost in the Shell 2.0 - Manmachine Interface.</strong><br> Assim como o mangá original que apresentou ao mundo a Major Motoko Kusanagi, esta sequência chega ao Brasil em uma luxuosa edição. Ao todo serão quase 200 páginas totalmente coloridas, revelando cada detalhe da excepcional arte de Shirow.<br> Serializado no Japão na Revista Young Magazine, da Editora Kodansha, The Ghost in the Shell 2.0 foi publicado entre 1991 e 1997 para depois ter todas suas histórias em um volume único.</p><p>A história acontece em um mundo virtual onde quase tudo é possível, até mesmo controlar múltiplas personalidades. É neste momento que entra a "atualizada" Motoko que&nbsp;precisa rastrear e localizar uma nova inteligência artificial e, ao mesmo tempo, impedir que ela caia em mãos erradas. Qual será o desfecho desta incrível história? Confira em <strong>The Ghost in the Shell 2.0 - Manmachine Interface</strong>.</p>
+
+    Dados da Edição:
+        Volume:
+        Autor(es): Shirow Masamune
+        Número de páginas: 304
+        Classificação etária: 18 anos
+
+    Edição Impressa:
+        Formato: 17 x 24 cm
+        Preço: 64.9
+        ISBN: 9788545703716
+
+    Edição Digital (S / N): S
+        Formato: .mobi/.epub
+        Preço: 45.5
+        Disponível nas lojas: Amazon
+        ISBN [.epub]: 9788545705215
+        ISBN [.mobi]: 9788545705222
+
+    Imagens:
+        Capa: https://jbchost.com.br/mangasjbc/wp-content/uploads/2017/11/The-Ghost-in-the-Shell-2-Sobrecapa_p-300x421.jpg
+        Cabeçalho: https://jbchost.com.br/mangasjbc/wp-content/uploads/2017/12/site_header-gits_2.0.jpg
+        Url: https://mangasjbc.com.br/the-ghost-in-the-shell-2-0-manmachine-interface/
+
+    Item adicionado a lista.
