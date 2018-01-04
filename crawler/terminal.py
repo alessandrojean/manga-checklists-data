@@ -143,7 +143,7 @@ def prompt_item_to_update():
 
 def show_data(data):
     if not data:
-        print('Lista vazia.')
+        print('\tLista vazia.')
         return
 
     data.sort(key=lambda x: (x['date'] == '', '' if x['date'] == '' else datetime.strptime(x['date'], '%d/%m/%Y')))

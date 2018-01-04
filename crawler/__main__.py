@@ -24,8 +24,7 @@ def main():
     }
 
     while option.upper() != 'Q':
-        if data:
-            show_data(data)
+        show_data(data)
 
         print_options(options)
 
