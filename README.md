@@ -45,6 +45,6 @@ Mais informações de como executá-lo e gerar os arquivos JSON, você também e
     IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
     CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
     
-# Aviso Legal
+## Aviso Legal
 
 O desenvolvedor não possui nenhuma filiação com as editoras mencionadas nos arquivos, todas as informações são públicas e são retiradas de sites confiáveis e oficiais.
