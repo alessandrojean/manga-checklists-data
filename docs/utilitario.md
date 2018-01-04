@@ -1,6 +1,6 @@
 ---
 title: Utilitário
-layout: default
+layout: page
 ---
 
 Esta página contém informações de como colaborar com as informações através do utilitário.
