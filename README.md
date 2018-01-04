@@ -12,15 +12,15 @@ Por ser um cadastro manual, é possível cadastrar os lançamentos de todas as e
 
 Geralmente, todas as informações sobre os mangás, e os próprios checklists, são facilmente localizados nos sites das editoras. Porém, há exceções, como os mangás da Panini, em que as informações são obtidas de vários sites, como a [Amazon](https://amazon.com.br), [Agência Brasileira do ISBN](http://www.isbn.bn.br/website/consulta/cadastro), a própria [Loja da Panini](https://loja.panini.com.br/panini/vitrines/default.aspx) e os checklists completos disponibilizados na página [Panini Mangas](https://pt-br.facebook.com/PaniniMangas/app/1706637092931001/?ref=page_internal) no Facebook.
 
-Na wiki do repositório você consegue encontrar informações mais precisas para cada editora.
+[Nesta página](https://alessandrojean.github.io/manga-checklists-data/informacoes) você consegue encontrar informações mais precisas para cada editora.
 
 ## Como contribuir?
 
-Eu desenvolvi um simples utilitário, em linha de comando, para ajudar no gerenciamento dos checklists. Todas as informações cadastradas devem seguir um padrão, que está especificado na wiki aqui do repositório.
+Eu desenvolvi um simples utilitário, em linha de comando, para ajudar no gerenciamento dos checklists. Todas as informações cadastradas devem seguir um padrão, que está especificado [nesta página](https://alessandrojean.github.io/manga-checklists-data/padroes).
 
 Para poder utilizar este utilitário, você precisa ter o [Python](https://www.python.org/) instalado em sua máquina. Você pode instalar independentemente de seu sistema operacional, já que o Python possui versões para todas as plataformas de desktop.
 
-Mais informações de como executá-lo e gerar os arquivos JSON, você também encontra na wiki do repositório.
+Mais informações de como executá-lo e gerar os arquivos JSON, você encontra [nesta página](https://alessandrojean.github.io/manga-checklists-data/utilitario).
 
 ## Licença
 
