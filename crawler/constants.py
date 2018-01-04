@@ -51,6 +51,13 @@ AVAILABLE_PUBLISHERS = {
             'publishing_labels' : [
                 'Mangás'
             ]
+        },
+        9 : {
+            'name' : 'Alto Astral',
+            'publishing_labels' : [
+                'Mangás',
+                'Manfrás'
+            ]
         }
     }
 }

@@ -33,7 +33,7 @@ Caso a lista esteja vazia, nenhum arquivo será criado. Se você editou um arqui
 
 #### 1. Adicionar novo item a lista manualmente
 
-Utilize essa opção se quiser inserir um novo mangá ao checklist selecionado. Para mais informações, veja a página Padrões de dados.
+Utilize essa opção se quiser inserir um novo mangá ao checklist selecionado. Para mais informações, veja a página [Padrões de dados](padroes.md).
 
 #### 2. Editar item da lista
 
