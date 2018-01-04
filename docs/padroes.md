@@ -1,6 +1,6 @@
 ---
 title: Padrões de dados
-layout: default
+layout: page
 ---
 
 Esta página contém informações de como seguir o padrão dos dados.
