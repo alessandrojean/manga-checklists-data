@@ -1,0 +1,72 @@
+{
+  "br" : [
+    {
+      "code" : 1,
+      "name" : "Editora JBC",
+      "publishing_labels" : [
+        "Mangás",
+        "Ink Comics",
+        "Novels",
+        "Graphic Novels"
+      ]
+    },
+    {
+      "code" : 2,
+      "name" : "Panini",
+      "publishing_labels" : [
+        "Planet Mangá"
+      ]
+    },
+    {
+      "code" : 3,
+      "name" : "NewPOP Editora",
+      "publishing_labels" : [
+        "Mangás",
+        "Novels"
+      ]
+    },
+    {
+      "code" : 4,
+      "name" : "Nova Sampa",
+      "publishing_labels" : [
+        "JENS"
+      ]
+    },
+    {
+      "code" : 5,
+      "name" : "DarkSide Books",
+      "publishing_labels" : [
+        "Tokyo Terror"
+      ]
+    },
+    {
+      "code" : 6,
+      "name" : "Devir",
+      "publishing_labels" : [
+        "Mangás"
+      ]
+    },
+    {
+      "code" : 7,
+      "name" : "L&PM",
+      "publishing_labels" : [
+        "Mangás"
+      ]
+    },
+    {
+      "code" : 8,
+      "name" : "Editora Draco",
+      "publishing_labels" : [
+        "Mangás"
+      ]
+    },
+    {
+      "code" : 9,
+      "name" : "Alto Astral",
+      "publishing_labels" : [
+        "Mangás",
+        "Manfrás"
+      ]
+    }
+  ]
+}
