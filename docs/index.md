@@ -25,4 +25,4 @@ Aqui você encontrará as regras e padrões a seguir durante o cadastro.
 
 ### [Utilitário](utilitario.md)
 
-Aqui você encontrará um breve tutorial de como usar o utilitário para gerar os arquivos `.json` que o app precisa.
+Aqui você encontrará um breve tutorial de como usar o utilitário online e como enviar os arquivos criados.

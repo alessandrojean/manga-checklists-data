@@ -1,58 +1,55 @@
 ---
-title: Utilitário
+title: Utilitário (online)
 layout: page
 ---
 
-Esta página contém informações de como colaborar com as informações através do utilitário.
+Esta página contém informações de como colaborar com as informações através do utilitário online.
 
-## Instalando o Python
+## Utilizando
 
-Para o utilitário funcionar, você precisa ter o [Python](https://python.org) instalado em sua máquina. Seu processo de instalação é simples, apenas seguir as etapas. Não se preocupe, o instalador não contém adware. Opte por sempre baixar a versão `3.x.x`.
+O utilitário está disponível online [aqui](https://alessandrojean.github.io/manga-checklists-data-manager). 
 
-**É importante deixar a opção *Add Python 3.x to PATH* marcada durante a instalação.**
+Você não precisa instalar nada para utilizá-lo, basta ter um navegador atualizado.
 
-## Executando o utilitário
+É recomendado utilizar a página em um computador, pois são muitos campos a preencher e, utilizando um celular, por exemplo, pode tornar o processo muito cansativo. Porém, a página é responsiva e possui suporte a celulares e tablets.
 
-Primeiramente, é necessário fazer o download do mesmo. Baixe o [zip](https://github.com/alessandrojean/manga-checklists-data/archive/master.zip) com o repositório e o extraia em algum lugar.
+## Recursos
 
-Para executá-lo, basta abrir o arquivo `run.bat`, ou `run.sh`, dependendo do seu sistema operacional.
+A página salva automaticamente todas as suas inserções, ou seja, você pode, por exemplo, continuar o cadastro em outro dia, desde que utilize no mesmo navegador e computador.
 
-## Utilizando o utilitário
+## Sessões
 
-Quando você executá-lo, o mesmo lhe pedirá que você especifique o mês e o ano que você pretende gerenciar. Utilize somente números, o programa não aceita nomes de meses.
+A página é composta de três sessões atualmente: checklists, comparador e exportar.
 
-Se você não digitar nada, pressionando `Enter`, serão utilizados o mês e ano da data atual.
+### [Checklists](https://alessandrojean.github.io/manga-checklists-data-manager/#/checklists)
 
-Se algum arquivo já existir com a data especificada, as informações serão carregadas e exibidas em uma tabela, senão, será informado que a lista está vazia.
+Aqui os checklists e, consequentemente, seus mangás, são criados. Todo o cadastro é manual, ou seja, você precisa ir nos [sites recomendados](https://alessandrojean.github.io/manga-checklists-data/informacoes.html) e digitar, ou copiar, as informações, uma a uma, nos campos. Porém, essa sessão será automatizada futuramente.
 
-### Opções
+### Comparador
 
-Existem, atualmente, quatro opções básicas. Ao final de cada operação, o arquivo será salvo automaticamente.
+Aqui você pode comparar as informações de um arquivo já gerado com os já cadastrados no banco de dados do aplicativo.
 
-Caso a lista esteja vazia, nenhum arquivo será criado. Se você editou um arquivo e removeu todas as entradas dele, o mesmo será deletado.
+### [Exportar](https://alessandrojean.github.io/manga-checklists-data-manager/#/export)
 
-#### 1. Adicionar novo item a lista manualmente
+Aqui você exportará os dados criados para um arquivo que deverá ser enviado ao e-mail especificado na página, como está detalhadamente explicado na mesma.
 
-Utilize essa opção se quiser inserir um novo mangá ao checklist selecionado. Para mais informações, veja a página [Padrões de dados](padroes.md).
+Ao fim de cada exportação, o banco de dados local será apagado.
 
-#### 2. Editar item da lista
+## Envio das informações
 
-Utilize essa opção se quiser editar um mangá já existente na lista. Lhe será pedido o índice do mesmo, que você pode encontrar na primeira coluna da tabela.
+Ao final de todo o cadastro, você deverá ir na sessão [Exportar](https://alessandrojean.github.io/manga-checklists-data-manager/#/export) e preencher o formulário. 
 
-Se quiser manter o valor atual de cada campo, basta apenas deixar em branco, pressionando `Enter`, mas, caso queira limpar o valor, digite `*`.
+Neste momento, caso você queira ser citado, deve checar a opção "*Quero ser citado pela colaboração*" e preencher os campos corretamente.
 
-#### 3. Remover item da lista
+Você deve, também, explicar sucintamente o que você criou, no campo "*Alterações*", por exemplo:
 
-Utilize essa opção se quiser remover um mangá já existente da lista. Lhe será pedido o índice do mesmo, que você pode encontrar na primeira coluna da tabela.
+    Criei o checklist de Novembro/2017.
+    Alterei o mangá X no checklist de Dezembro/2017.
 
-#### Q. Salvar alterações e sair
+Ao fim, ao clicar em "*Exportar*", um arquivo `.zip` será gerado, pedimos que não altere o conteúdo do mesmo em outros programas e nem renomeie o arquivo.
 
-Utilize essa opção quando quiser encerrar o utilitário. Você pode encerrar a qualquer momento, inclusive fora da seleção de opções, pressionando `Ctrl + C`.
+O arquivo gerado deverá ser enviado em anexo para o e-mail `manga.checklists@gmail.com`, com o assunto `[BD] Colaboração`.
 
-## Enviando os dados
+## Citação
 
-Você pode enviar os arquivos criados/editados, que estarão disponíveis na pasta `docs/checklists/br`, através do e-mail `<e-mail>`, com o assunto `[DATA] Checklists` e os arquivos `.json` anexados. 
-
-Se você já tiver familiaridade com Git, sinta-se a vontade para dar um *fetch* no repositório, criar/editar as informações, e mandar um *pull request*.
-
-Se quiser que seu nome seja citado na parte de colaboradores, especifique no e-mail, ou *pull request*, como gostaria que fosse mencionado.
+Se você optou por ser citado, assim que suas informações forem aceitas e averiguadas, você terá seu nome incluído na lista de colaboradores.

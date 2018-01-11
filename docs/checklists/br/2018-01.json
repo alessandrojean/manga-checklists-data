@@ -1,1 +1,101 @@
-[{"publisher": {"code": 1, "name": "Editora JBC", "label": "Mang\u00e1s"}, "name": "The Ghost in the Shell 2.0 - Manmachine Interface", "date": "07/12/2017", "subtitle": "Major Motoko Kusanagi updated", "synopsis": "<p>A Major Motoko Kusanagi volta atualizada na sequ\u00eancia da obra-prima de Shirow&nbsp;Masamune&nbsp;<strong>The Ghost in the Shell 2.0 - Manmachine Interface.</strong><br> Assim como o mang\u00e1 original que apresentou ao mundo a Major Motoko Kusanagi, esta sequ\u00eancia chega ao Brasil em uma luxuosa edi\u00e7\u00e3o. Ao todo ser\u00e3o quase 200 p\u00e1ginas totalmente coloridas, revelando cada detalhe da excepcional arte de Shirow.<br> Serializado no Jap\u00e3o na Revista Young Magazine, da Editora Kodansha, The Ghost in the Shell 2.0 foi publicado entre 1991 e 1997 para depois ter todas suas hist\u00f3rias em um volume \u00fanico.</p><p>A hist\u00f3ria acontece em um mundo virtual onde quase tudo \u00e9 poss\u00edvel, at\u00e9 mesmo controlar m\u00faltiplas personalidades. \u00c9 neste momento que entra a \"atualizada\" Motoko que&nbsp;precisa rastrear e localizar uma nova intelig\u00eancia artificial e, ao mesmo tempo, impedir que ela caia em m\u00e3os erradas. Qual ser\u00e1 o desfecho desta incr\u00edvel hist\u00f3ria? Confira em <strong>The Ghost in the Shell 2.0 - Manmachine Interface</strong>.</p>", "volume": -1, "authors": "Shirow Masamune", "page_number": 304, "age_rating": "18 anos", "paper_edition": {"format": "17 x 24 cm", "price": 64.9, "isbn": "9788545703716"}, "digital_edition": {"format": ".mobi/.epub", "price": 45.5, "available_at": "Amazon", "isbn_epub": "9788545705215", "isbn_mobi": "9788545705222"}, "cover_url": "https://jbchost.com.br/mangasjbc/wp-content/uploads/2017/11/The-Ghost-in-the-Shell-2-Sobrecapa_p-300x421.jpg", "header_url": "https://jbchost.com.br/mangasjbc/wp-content/uploads/2017/12/site_header-gits_2.0.jpg", "url": "https://mangasjbc.com.br/the-ghost-in-the-shell-2-0-manmachine-interface/"}, {"publisher": {"code": 1, "name": "Editora JBC", "label": "Mang\u00e1s"}, "name": "", "date": "", "subtitle": "", "synopsis": "", "volume": -1, "authors": "", "page_number": 0, "age_rating": "", "paper_edition": {"format": "", "price": 0.0, "isbn": ""}, "digital_edition": {"format": "", "price": 0.0, "available_at": "", "isbn_epub": "", "isbn_mobi": ""}, "cover_url": "", "header_url": "", "url": ""}]
+{
+  "mangas": [
+    {
+      "age_rating": "14 anos",
+      "authors": "Hiromu Arakawa",
+      "cover_url": "https://jbchost.com.br/mangasjbc/wp-content/uploads/2017/12/FMA-Especial-17-Capa_p-300x456.jpg",
+      "date": "",
+      "header_url": "https://jbchost.com.br/mangasjbc/wp-content/uploads/2016/06/facebook-cover-FMA.png",
+      "name": "Fullmetal Alchemist ESP.",
+      "paper_edition": {
+        "format": "13,5 x 20,5 cm",
+        "price": "16.9",
+        "isbn": "9788545703822"
+      },
+      "publisher": {
+        "code": 1,
+        "name": "Editora JBC",
+        "label": "Mangás"
+      },
+      "page_number": "208",
+      "subtitle": "Os pilares de Briggs",
+      "synopsis": "<p>Uma misteriosa criatura surge de um buraco subterrâneo na fortaleza de Briggs, e ela tem a marca de ouroboros em seu ombro! A força do homúnculo é descomunal, mas a General Armstrong vai mostrar porque é chamada por todos de “Muralha de Briggs”!</p>",
+      "url": "https://mangasjbc.com.br/fullmetal-alchemist-esp-17/",
+      "volume": "17",
+      "id": "BJpVi9bVG"
+    },
+    {
+      "age_rating": "16 anos",
+      "authors": "Shinobu Ohtaka",
+      "cover_url": "https://jbchost.com.br/mangasjbc/wp-content/uploads/2017/12/Magi-31-Capa_p-300x456.jpg",
+      "date": "",
+      "header_url": "https://jbchost.com.br/mangasjbc/wp-content/uploads/2016/03/site-cover-Magi.jpg",
+      "name": "Magi: O Labirinto da Magia",
+      "paper_edition": {
+        "format": "13,5 x 20,5 cm",
+        "price": "14.9",
+        "isbn": "9788545703846"
+      },
+      "publisher": {
+        "code": 1,
+        "name": "Editora JBC",
+        "label": "Mangás"
+      },
+      "page_number": "200",
+      "subtitle": "O caminho de cada um",
+      "synopsis": "<p>Para a reconstrução do Império Huang, Ali Babá viaja ao redor do mundo como seu representante comercial. No entanto, aquele que aparece e se opõe ao garoto é nada mais do que a pessoa mais importante do mundo! Saberemos o paradeiro de Aladim?! O destino começa a ser revelado neste volume 31 das aventuras mágicas!</p>",
+      "url": "https://mangasjbc.com.br/magi-o-labirinto-da-magia-31/",
+      "volume": "31",
+      "id": "rJytncWVG"
+    },
+    {
+      "age_rating": "14 anos",
+      "authors": "Kohei Horikoshi",
+      "cover_url": "https://jbchost.com.br/mangasjbc/wp-content/uploads/2017/12/MHA-08-Capa_p-300x456.jpg",
+      "date": "",
+      "header_url": "https://jbchost.com.br/mangasjbc/wp-content/uploads/2017/01/facebook-cover-Boku-No-Hero-2.png",
+      "name": "My Hero Academia",
+      "paper_edition": {
+        "format": "13,5 x 20,5 cm",
+        "price": "14.9",
+        "isbn": "9788545703921"
+      },
+      "publisher": {
+        "code": 1,
+        "name": "Editora JBC",
+        "label": "Mangás"
+      },
+      "page_number": "192",
+      "subtitle": "Yaoyorozu: Origens",
+      "synopsis": "<p>O teste prático das provas semestrais é mais duro do que se imagina, e nossos protótipos de heróis vão sofrer bastante nas mãos dos profissionais! Será que todos vão conseguir passar e não ficar de recuperação?!</p>",
+      "url": "https://mangasjbc.com.br/my-hero-academia-08/",
+      "volume": "8",
+      "id": "H1Jbnw-4M"
+    },
+    {
+      "age_rating": "Livre",
+      "authors": "Makoto Shinkai, Ranmaru Kotone",
+      "cover_url": "https://jbchost.com.br/mangasjbc/wp-content/uploads/2017/12/your-name.-03-Capa_p-300x456.jpg",
+      "date": "",
+      "header_url": "https://jbchost.com.br/mangasjbc/wp-content/uploads/2017/07/site_slider-your_name.jpg",
+      "name": "Your Name.",
+      "paper_edition": {
+        "format": "13,5 x 20,5 cm",
+        "price": "15.9",
+        "isbn": "9788545703754"
+      },
+      "publisher": {
+        "code": 1,
+        "name": "Editora JBC",
+        "label": "Mangás"
+      },
+      "page_number": "168",
+      "subtitle": "Os dois que finalmente se encontram",
+      "synopsis": "<p>Para salvar Mitsuha e todos da queda do cometa Tiamat, Taki bola um plano de evacuação com a ajuda de Teshi e Sayatin. “Vamos salvar Itomori juntos!”</p>\n<p>O encontro dos dois que jamais se encontrariam. A história milagrosa da garota e do garoto, se encerra neste emocionante volume final.</p>",
+      "url": "https://mangasjbc.com.br/your-name-03/",
+      "volume": "3",
+      "id": "S196o9b4z"
+    }
+  ],
+  "updated_at": "08/01/2018 23:35:51 BRST"
+}

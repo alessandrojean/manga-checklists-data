@@ -1,28 +1,26 @@
 # Manga Checklists Data
 
-Este repositório contém todas as informações do app [Manga Checklists](https://github.com/alessandrojean/manga-checklists).
+> This repository contains all the data from the app [Manga Checklists](https://github.com/alessandrojean/manga-checklists).
 
-## Como funciona?
+## How it works?
 
-Todas as informações cadastradas são convertidas em um arquivo JSON, possibilitando que o aplicativo possa obtê-las mais facilmente do que ter todo o trabalho de pegá-las dos sites das editoras.
+All the information are converted in JSON files, so the app can read the with facility, instead of parsing the HTML from the publishers website.
 
-Por ser um cadastro manual, é possível cadastrar os lançamentos de todas as editoras do ramo, inclusive as que não disponibilizam um checklist em seus sites, tais como a [DarkSide Books](http://www.darksidebooks.com.br/), [Devir](http://devir.com.br/), [Nova Sampa](https://www.editoranovasampa.com.br/loja/) etc.
+It's manual, so it's possible to insert all the releases from all the manga publishers, even those that doesn't publish an checklist, like [DarkSide Books](http://www.darksidebooks.com.br/), [Devir](http://devir.com.br/), [Nova Sampa](https://www.editoranovasampa.com.br/loja/) etc.
 
-## Onde obter as informações?
+## How to obtain the information?
 
-Geralmente, todas as informações sobre os mangás, e os próprios checklists, são facilmente localizados nos sites das editoras. Porém, há exceções, como os mangás da Panini, em que as informações são obtidas de vários sites, como a [Amazon](https://amazon.com.br), [Agência Brasileira do ISBN](http://www.isbn.bn.br/website/consulta/cadastro), a própria [Loja da Panini](https://loja.panini.com.br/panini/vitrines/default.aspx) e os checklists completos disponibilizados na página [Panini Mangas](https://pt-br.facebook.com/PaniniMangas/app/1706637092931001/?ref=page_internal) no Facebook.
+All the information about the mangas, and the checklists itself, are published in the website of the publishers. However, there is exceptions, like the mangas from Panini, that the information came from [Amazon](https://amazon.com.br), [Brazilian Agency of the ISBN](http://www.isbn.bn.br/website/consulta/cadastro), [Panini's Shop](https://loja.panini.com.br/panini/vitrines/default.aspx) and their page on Facebook, [Panini Mangas](https://pt-br.facebook.com/PaniniMangas/app/1706637092931001/?ref=page_internal).
 
-[Nesta página](https://alessandrojean.github.io/manga-checklists-data/informacoes) você consegue encontrar informações mais precisas para cada editora.
+In [this page](https://alessandrojean.github.io/manga-checklists-data/informacoes) you will find more information of each publisher.
 
-## Como contribuir?
+## How to collaborate?
 
-Eu desenvolvi um simples utilitário, em linha de comando, para ajudar no gerenciamento dos checklists. Todas as informações cadastradas devem seguir um padrão, que está especificado [nesta página](https://alessandrojean.github.io/manga-checklists-data/padroes).
+I created a simple Single Page Application to help you to create the missing mangas and checklists in the app. All the information **must** follow an pattern, specified [here](https://alessandrojean.github.io/manga-checklists-data/padroes).
 
-Para poder utilizar este utilitário, você precisa ter o [Python](https://www.python.org/) instalado em sua máquina. Você pode instalar independentemente de seu sistema operacional, já que o Python possui versões para todas as plataformas de desktop.
+The tool is available [here](https://alessandrojean.github.io/manga-checklists-data-manager).
 
-Mais informações de como executá-lo e gerar os arquivos JSON, você encontra [nesta página](https://alessandrojean.github.io/manga-checklists-data/utilitario).
-
-## Licença
+## License
 
     The MIT License (MIT)
 
@@ -45,6 +43,6 @@ Mais informações de como executá-lo e gerar os arquivos JSON, você encontra 
     IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
     CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
     
-## Aviso Legal
+## Disclaimer
 
-O desenvolvedor não possui nenhuma filiação com as editoras mencionadas nos arquivos, todas as informações são públicas e são retiradas de sites confiáveis e oficiais.
+The developer it's not filliated with any publisher present in the database, all the information is public and is obtained from official websites.
