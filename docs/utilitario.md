@@ -19,15 +19,11 @@ A página salva automaticamente todas as suas inserções, ou seja, você pode, 
 
 ## Sessões
 
-A página é composta de três sessões atualmente: checklists, comparador e exportar.
+A página é composta de duas sessões atualmente: checklists e exportar.
 
 ### [Checklists](https://alessandrojean.github.io/manga-checklists-data-manager/#/checklists)
 
 Aqui os checklists e, consequentemente, seus mangás, são criados. Todo o cadastro é manual, ou seja, você precisa ir nos [sites recomendados](https://alessandrojean.github.io/manga-checklists-data/informacoes.html) e digitar, ou copiar, as informações, uma a uma, nos campos. Porém, essa sessão será automatizada futuramente.
-
-### Comparador
-
-Aqui você pode comparar as informações de um arquivo já gerado com os já cadastrados no banco de dados do aplicativo.
 
 ### [Exportar](https://alessandrojean.github.io/manga-checklists-data-manager/#/export)
 
